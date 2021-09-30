@@ -1,0 +1,12 @@
+Residntial 0 200000 1 145 Bully Lane
+Commercial 1 34567 0 0.50 1000 Pontiac ln.
+Residential 56800 0 2015 Don't Starve Drive
+Commercial 0 1000567 1 0.20 321 Sea Towers
+Residential 1 0 5400 Avatar Lane
+Commercial 1 9476767 0 0.20 1000 Columbia Ln
+Resideial 1 6856657 0 1213 Bulid Me A Bridge
+Commercial  10000 1 0.05 7895 Weeblo Dr
+Residential 0 7897698 1 5432 Avatar Stop Blvd
+Cercial 0 982000 0 0.0 870 Welcome Ln
+Residential 1 1000000 1 986 Fremont Rd
+Industrial 0 500080 1 0.10 987 Cinnibar Ln
